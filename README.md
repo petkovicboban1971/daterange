@@ -1,4 +1,4 @@
-Example of repositorie: <b><h4><i><a target="_blank" href="https://daterange.bexter.rs">daterange.bexter.rs</a></i></h4></b>
+Example of repositorie: <b><h4><i><a href="https://daterange.bexter.rs" target="_blank">daterange.bexter.rs</a></i></h4></b>
 
 
 
